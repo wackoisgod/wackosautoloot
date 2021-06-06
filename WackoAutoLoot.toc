@@ -1,0 +1,8 @@
+## Interface: 20501
+## Title: Wacko's AutoLoot
+## Author: Wacko
+## Notes: Improves Auto looting for all things
+## SavedVariables: WackoData
+## SavedVariablesPerCharacter: WackoDataCData
+
+WackoAutoLoot.lua
